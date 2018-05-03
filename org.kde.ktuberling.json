@@ -20,7 +20,7 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/17.12.3/src/libkdegames-17.12.3.tar.xz",
+                    "url": "https://download.kde.org/stable/applications/18.04.0/src/libkdegames-18.04.0.tar.xz",
                     "sha256": "6d12bf8f389e07dc8cd8681e61757c817082ffb5e9e409e488a17da9dae501ce"
                 } 
             ]
@@ -44,8 +44,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.44/portingAids/kdelibs4support-5.44.0.tar.xz", 
-                    "sha256": "564e1ccb196119ab29c44cd606d0633a13875259576205a7608b5a9c80cfddb3" 
+                    "url": "https://download.kde.org/stable/frameworks/5.45/portingAids/kdelibs4support-5.45.0.tar.xz", 
+                    "sha256": "baec2bd826a701a5c1e3ff7a98b1745c0c69c4806ccf5a654a0fdd245d19344e" 
                 } 
             ]
         },
@@ -56,21 +56,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/17.12.3/src/ktuberling-17.12.3.tar.xz",
-                    "sha256": "247b165bd38edf83e46be1982aa8750fd4a3d9ba129b29b3b5e3fb68bf4b16e7"
-                }
-            ]
-        },
-        {
-            "name": "ktuberling-appdata",
-            "buildsystem": "simple",
-            "build-commands": [
-                "install -Dm644 org.kde.ktuberling.appdata.xml /app/share/appdata/org.kde.ktuberling.appdata.xml"
-            ],
-            "sources": [ 
-                {
-                    "type": "file",
-                    "path": "org.kde.ktuberling.appdata.xml"
+                    "url": "https://download.kde.org/stable/applications/18.04.0/src/ktuberling-18.04.0.tar.xz",
+                    "sha256": "cd20a981f59a257298fa9c0027fab9bc4b9439a31bd9c66515e097591458b98a"
                 }
             ]
         }
