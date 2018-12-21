@@ -21,8 +21,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/libkdegames-18.08.0.tar.xz",
-                    "sha256": "e0bca02674c5e961db17e8225affc689c437ab78eabcd620a1e38ee7b1d583ca"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
+                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
                 } 
             ]
         },
@@ -33,8 +33,8 @@
             "sources": [ 
                     { 
                         "type": "archive", 
-                        "url": "https://github.com/kcat/openal-soft/archive/openal-soft-1.18.2.tar.gz", 
-                        "sha256": "a598241d1af2e90c25a1b91da4c9ddc0e7cb6a4b5f1477fc680d139c57cd38cc" 
+                        "url": "https://github.com/kcat/openal-soft/archive/openal-soft-1.18.2.tar.gz",
+                        "sha256": "a598241d1af2e90c25a1b91da4c9ddc0e7cb6a4b5f1477fc680d139c57cd38cc"
                     } 
                 ]
         },
@@ -45,8 +45,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.48/portingAids/kdelibs4support-5.48.0.tar.xz", 
-                    "sha256": "0e7f654bacd1e70aefb216998cd67d3280f6bbbf1ca6a2ee882142a70d2c1a15" 
+                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
+                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
                 } 
             ]
         },
@@ -58,8 +58,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/ktuberling-18.08.0.tar.xz",
-                    "sha256": "f64ab2827125414a4735ebcc9297be49395505a21957db98fc36eb06cf6e35d5"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/ktuberling-18.12.0.tar.xz",
+                    "sha256": "d3698647185d6075054fc516d129acc7dbd1295852a1b67aa6bc96e61c064257"
                 }
             ]
         }
