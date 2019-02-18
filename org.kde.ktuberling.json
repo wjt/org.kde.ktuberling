@@ -1,7 +1,7 @@
 {
     "id": "org.kde.ktuberling",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "ktuberling",
     "rename-icon": "ktuberling",
@@ -21,8 +21,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
+                    "url": "https://download.kde.org/stable/applications/18.12.2/src/libkdegames-18.12.2.tar.xz",
+                    "sha256": "ec20e57eeeab9a8ee7737d0c7c8c5d6c84e060393d96a37372368d7f1a9e5843"
                 } 
             ]
         },
@@ -33,8 +33,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
-                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
+                    "url": "https://download.kde.org/stable/frameworks/5.55/portingAids/kdelibs4support-5.55.0.tar.xz",
+                    "sha256": "6948b490be09f6390fd52d276ef3731978b316d3fcfa78556c325d6fc0962fd0"
                 } 
             ]
         },
@@ -46,8 +46,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/ktuberling-18.12.0.tar.xz",
-                    "sha256": "d3698647185d6075054fc516d129acc7dbd1295852a1b67aa6bc96e61c064257"
+                    "url": "https://download.kde.org/stable/applications/18.12.2/src/ktuberling-18.12.2.tar.xz",
+                    "sha256": "efd0dd890ee03f9ba8b9355530760e44d4d85b63fff3ef76d21670234bc9c840"
                 }
             ]
         }
