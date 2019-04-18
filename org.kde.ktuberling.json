@@ -21,20 +21,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.2/src/libkdegames-18.12.2.tar.xz",
-                    "sha256": "ec20e57eeeab9a8ee7737d0c7c8c5d6c84e060393d96a37372368d7f1a9e5843"
-                } 
-            ]
-        },
-        {
-            "name": "kdelibs4support",
-            "buildsystem": "cmake-ninja",
-            "config-opts": ["-DCMAKE_BUILD_TYPE=RelWithDebInfo", "-DCMAKE_INSTALL_LIBDIR=lib"],
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.54/portingAids/kdelibs4support-5.54.0.tar.xz",
-                    "sha256": "b541c0c135f9f561a194d793924e699c5d79729687529789bb84522d99a3730a"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkdegames-19.04.0.tar.xz",
+                    "sha256": "2965e4a313609f6408becb13e54e26bfe14b37b58e7737e051129896f6e8bcd3"
                 } 
             ]
         },
@@ -46,8 +34,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.2/src/ktuberling-18.12.2.tar.xz",
-                    "sha256": "efd0dd890ee03f9ba8b9355530760e44d4d85b63fff3ef76d21670234bc9c840"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/ktuberling-19.04.0.tar.xz",
+                    "sha256": "984c29562bd20f93117e7d79aa120dd906e6d4490ae5d2b52ad03f7bbfb85ace"
                 }
             ]
         }
