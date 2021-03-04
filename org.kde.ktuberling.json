@@ -21,8 +21,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/libkdegames-20.12.2.tar.xz",
-                    "sha256": "19d93fe25f1ea5173d5130b2d270038b26e6cc6f09238724f330d05fbe019439"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/libkdegames-20.12.3.tar.xz",
+                    "sha256": "401b919640eea95ec8feab1ce0914db2750fafc19893c424eed8ea37e5e216d1"
                 } 
             ]
         },
@@ -34,8 +34,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/ktuberling-20.12.2.tar.xz",
-                    "sha256": "c86874ab8f5a27399714974dc22017310a5143a6a38baf5df350e8c41fc4cd7a"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/ktuberling-20.12.3.tar.xz",
+                    "sha256": "06a949bf9eb07bdb42732e70c5cc0bdabc4aafedd257d58c5392b60de64c9f34"
                 }
             ]
         }
