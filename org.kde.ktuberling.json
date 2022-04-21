@@ -17,31 +17,35 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "config-opts": ["-DCMAKE_INSTALL_LIBDIR=lib"],
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/libkdegames-21.12.3.tar.xz",
-                    "sha256": "4b2f3fb2af0866f7aba1ae679b505faeb7577b0ab50bd619ecb642c48ae0b574",
+            "config-opts": [
+                "-DCMAKE_INSTALL_LIBDIR=lib"
+            ],
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/libkdegames-$version.tar.xz"
                     }
-                } 
+                }
             ]
         },
         {
             "name": "ktuberling",
             "buildsystem": "cmake-ninja",
-            "config-opts": ["-DCMAKE_BUILD_TYPE=RelWithDebInfo"],
+            "config-opts": [
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
             "builddir": true,
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/ktuberling-21.12.3.tar.xz",
-                    "sha256": "4fbffaeff31ab4c28919a825504f15dc90f89aa249e579bd7fcf265990b09aab",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/ktuberling-22.04.0.tar.xz",
+                    "sha256": "18d9a07bb39e2c63a2be090c2a28862b281cf2ff35177c5cdcc3b3ef79bf9da5",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
