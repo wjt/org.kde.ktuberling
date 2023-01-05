@@ -24,8 +24,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/libkdegames-22.12.0.tar.xz",
-                    "sha256": "9de4123c3c7fdf9e5be8daae8c2991a5ff57cc20b4df04028389215835a4b39c",
+                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/libkdegames-22.12.1.tar.xz",
+                    "sha256": "95351acdf3624a5913ab18d4c3e4acdd3c559b7df63e2541299088bcbf71fe29",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -45,8 +45,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/ktuberling-22.12.0.tar.xz",
-                    "sha256": "fbf67aafd0ac24f6c146699352bb06bf7774666dcf5ac009f1a7983d81072fa8",
+                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/ktuberling-22.12.1.tar.xz",
+                    "sha256": "e705dc3d4854c19c57f6122bd5f1a0a8ff1e692a1f169e0a942c357cc971f978",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
