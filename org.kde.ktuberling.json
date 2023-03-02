@@ -45,8 +45,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/ktuberling-22.12.2.tar.xz",
-                    "sha256": "f62d94b3b874b4144341bcad434bbaf7a414d6e5745bf12574635524a2227a8e",
+                    "url": "https://download.kde.org/stable/release-service/22.12.3/src/ktuberling-22.12.3.tar.xz",
+                    "sha256": "498f4aca8a65b3529445997bfe2e5530fb4beb3d4fd61c19da653e7fcf1b545a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
